@@ -1,0 +1,20 @@
+{
+    "client": {
+        "token": "",
+        "embed": "8A2BE2",
+        "username": "Nyx Community",
+        "avatar": "https://cdn.discordapp.com/attachments/1078114406250066021/1078192932592562206/nyxnew2.png",
+        "channel_bugs": "1078114230861041754",
+        "owner_id": "1053437334672121956"
+    },
+    "sales": {
+        "checkout_category_id": "1078098474408616029",
+        "channel_sales": "1078196127586857001",
+        "role_customer": "1078114864213524632",
+        "role_permission_approved": "1078114864213524632",
+        "banco": {
+            "qrcode": "https://cdn.discordapp.com/attachments/1072621905108017202/1073045524271337472/HqtYE20AbaQBt4QwM96G8otZRtoA20gTbQBu5uoAf97sar1wbaQBtoA23gDQ30oLh1FK2gTbQBtpAG7i7gf8HKSXe5HhhZZsAAAAASUVORK5CYII.png",
+            "Chave Aleatória": ""
+        }
+    }
+}
